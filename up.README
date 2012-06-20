@@ -1,0 +1,11 @@
+Place the following line in your bash_profile:
+
+alias up='. up.sh'
+
+Put this folder in your bin.  My setup is:
+
+/home/jhuttner/bin/versioned/THIS_REPOSITORY
+export PATH="$PATH:/home/jhuttner/bin/versioned/THIS_REPOSITORY"
+
+You can also add the above export line to your bash_profile.
+
