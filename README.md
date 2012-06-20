@@ -8,5 +8,5 @@
     # If starting out in the /usr/local/adnxs/api directory for each command...
 
     $ up adnxs => you're in /usr/local/adnxs.
-    $ up foo => you stay put.
     $ up nxs => you're in /usr/local/adnxs (nxs is in adnxs).
+    $ up foo => you stay put.
