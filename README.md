@@ -1,6 +1,6 @@
 # My bin commands
 
-    $ up $dir => 
+    $ up $dir
 
     # Search directories above the current directory for one which contains
     # $dir as a substring.  If found, cd to it.  If not found, do nothing.
