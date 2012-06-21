@@ -1,4 +1,4 @@
-# My bin commands
+# Helpful AppNexus Commands
 
 ### up $dir
 
