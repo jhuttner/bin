@@ -10,3 +10,9 @@
     $ up adnxs => you're in /usr/local/adnxs.
     $ up nxs => you're in /usr/local/adnxs (nxs is in adnxs).
     $ up foo => you stay put.
+
+
+
+    $ versiongrab
+
+    # List the current versions for AppNexus API endpoints.
